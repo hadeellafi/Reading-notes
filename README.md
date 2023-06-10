@@ -43,7 +43,7 @@ The breakdown of the ls manual page is explained, highlighting the command's nam
 
   
 
-Prep: The Growth Mindset
+### Prep: The Growth Mindset
 -Upgrade Your Technical Skills with Deliberate Practice:
    The article highlights the significance of intentional practice in enhancing the hard technical skills of software developers. It stresses that merely engaging in daily programming activities does not necessarily result in skill improvement.
 
