@@ -10,9 +10,9 @@ This website is a collection of my reading notes from various courses.
 
 ## Code 401 - Advanced Software Development
 
-### [Introduction to SQL(Pre Work)](Introduction_to_SQL.md)
+## [Introduction to SQL(Pre Work)](Introduction_to_SQL.md)
 
-### Prep: Practice in the Terminal
+## Prep: Practice in the Terminal
 
 - Linux is described as an extensionless system, meaning that file extensions are not essential for determining file types. The system looks inside the file to identify its type. The file command is mentioned as a tool to determine the type of a file.
 - The case sensitivity of Linux is highlighted, emphasizing that files and directories with the same name but different letter cases are considered distinct.
@@ -22,10 +22,9 @@ The syntax for invoking the manual pages is shown as man <command>.
 The breakdown of the ls manual page is explained, highlighting the command's name, synopsis (overview of how to run the command), description, and the list of available command line options.
 - To create folder: mkdir [options] <Directory>
 - Removing or deleting a directory :rmdir [options] <Directory>.
+ 
 
-  
-
-### Prep: The Growth Mindset
+## Prep: The Growth Mindset
 -Upgrade Your Technical Skills with Deliberate Practice:
    The article highlights the significance of intentional practice in enhancing the hard technical skills of software developers. It stresses that merely engaging in daily programming activities does not necessarily result in skill improvement.
 
@@ -34,3 +33,5 @@ Deliberate practice refers to purposeful activities aimed at effectively enhanci
 The article raises concerns about the extent to which software developers are pushed beyond their comfort zones in the projects they undertake. It emphasizes the potential risks of stagnation that arise when developers repeatedly build similar applications.
 
 Furthermore, the article identifies the initial stages of a developer's career as the period of greatest learning due to constant challenges and exposure to unfamiliar concepts.
+
+## [Data Structures and Algorithms](Data%20Structures%20and%20Algorithms.md) 
