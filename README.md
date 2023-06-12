@@ -10,7 +10,11 @@ This website is a collection of my reading notes from various courses.
 
 ## Code 401 - Advanced Software Development
 
+
+
 ## [Introduction to SQL(Pre Work)](Introduction_to_SQL.md)
+
+---
 
 ## Prep: Practice in the Terminal
 
@@ -23,6 +27,8 @@ The breakdown of the ls manual page is explained, highlighting the command's nam
 - To create folder: mkdir [options] <Directory>
 - Removing or deleting a directory :rmdir [options] <Directory>.
  
+ ---
+
 
 ## Prep: The Growth Mindset
 -Upgrade Your Technical Skills with Deliberate Practice:
@@ -34,4 +40,8 @@ The article raises concerns about the extent to which software developers are pu
 
 Furthermore, the article identifies the initial stages of a developer's career as the period of greatest learning due to constant challenges and exposure to unfamiliar concepts.
 
+---
+
 ## [Data Structures and Algorithms](Data%20Structures%20and%20Algorithms.md) 
+
+---
