@@ -1,4 +1,4 @@
-# [Reading Notes](./README.md)
+# [Reading Notes](../README.md)
 
 ## Class 01
 Reflecting on Today's Learning

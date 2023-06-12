@@ -1,4 +1,4 @@
-# [Reading Notes](./README.md)
+# [Reading Notes](../README.md)
 
 ## Unit Testing and Documentation
 

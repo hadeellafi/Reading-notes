@@ -15,17 +15,17 @@ This website is a collection of my reading notes from various courses.
 
 - [Home](./README.md)
 - [Introduction to SQL (Pre Work)](Introduction_to_SQL.md)
-- [Practice in the Terminal (Pre Work)](Prep_Practice_in_the_Terminal.md)
-- [The Growth Mindset (Pre Work)](Prep_The_Growth_Mindset.md)
-- [Data Structures and Algorithms (Pre Work)](Data_Structures_and_Algorithms.md)
-- [Engineering Reading (Pre Work)](Engineering_Readings.md)
+- [Practice in the Terminal (Pre Work)](./Prep%3A%20Practice%20in%20the%20Terminal.md)
+- [The Growth Mindset (Pre Work)](./Prep%3A%20The%20Growth%20Mindset.md)
+- [Data Structures and Algorithms (Pre Work)](./Data%20Structures%20and%20Algorithms.md)
+- [Engineering Reading (Pre Work)](./Engineering%20Readings.md)
 
 ---
 
 ### Code 401 Readings & Learning Journal
 
 - [Read Class 01](./Readings/Class01.md),
-  [Journal Class 01](./Learning_Journal/Class01.md)
+  [Journal Class 01](./Learning%20Journal/Class01.md)
 
 - [Read Class 02](./Readings/Class02.md)
 
