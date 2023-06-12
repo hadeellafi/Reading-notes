@@ -1,7 +1,9 @@
+# [Reading Notes](./README.md)
 
-# Introduction to SQL(Pre Work)
+## Introduction to SQL(Pre Work)
 
-## task1 to task 6
+### task1 to task 6
+
 
 - SQL Lesson 1: SELECT queries 101
 ![task1](/assets/s1.jpg)
@@ -16,7 +18,7 @@
 - SQL Lesson 6: Multi-table queries with JOINs
 ![task6](/assets/s6.jpg)
 
-## task13 to task 18
+### task13 to task 18
 
 - SQL Lesson 13: Inserting rows
 ![task13](/assets/s13.jpg)

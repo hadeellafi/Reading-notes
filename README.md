@@ -1,47 +1,32 @@
-# reading-notes
+# Reading Notes
+
 This website is a collection of my reading notes from various courses.
 
-## Topics covered in Preperation course :
-  - HTML
-  - CSS
-  - JavaScript
-  - React js
-  - Node js
+## Topics covered in Preparation course:
+- HTML
+- CSS
+- JavaScript
+- React.js
+- Node.js
 
 ## Code 401 - Advanced Software Development
 
+## Table of Contents
 
-
-## [Introduction to SQL(Pre Work)](Introduction_to_SQL.md)
-
----
-
-## Prep: Practice in the Terminal
-
-- Linux is described as an extensionless system, meaning that file extensions are not essential for determining file types. The system looks inside the file to identify its type. The file command is mentioned as a tool to determine the type of a file.
-- The case sensitivity of Linux is highlighted, emphasizing that files and directories with the same name but different letter cases are considered distinct.
-- The manual pages are described as a set of pages that explain every command available on the system, including their descriptions, usage, and command line arguments.
-The syntax for invoking the manual pages is shown as man <command>.
-- A specific example of using the man command with the ls command is provided, demonstrating the structure of a manual page.
-The breakdown of the ls manual page is explained, highlighting the command's name, synopsis (overview of how to run the command), description, and the list of available command line options.
-- To create folder: mkdir [options] <Directory>
-- Removing or deleting a directory :rmdir [options] <Directory>.
- 
- ---
-
-
-## Prep: The Growth Mindset
--Upgrade Your Technical Skills with Deliberate Practice:
-   The article highlights the significance of intentional practice in enhancing the hard technical skills of software developers. It stresses that merely engaging in daily programming activities does not necessarily result in skill improvement.
-
-Deliberate practice refers to purposeful activities aimed at effectively enhancing specific aspects of an individual's performance, often facilitated by a teacher. The article draws a parallel between deliberate practice and playing a musical instrument, wherein skilled performers focus on repeatedly practicing challenging segments rather than merely playing through their pieces.
-
-The article raises concerns about the extent to which software developers are pushed beyond their comfort zones in the projects they undertake. It emphasizes the potential risks of stagnation that arise when developers repeatedly build similar applications.
-
-Furthermore, the article identifies the initial stages of a developer's career as the period of greatest learning due to constant challenges and exposure to unfamiliar concepts.
+- [Home](./README.md)
+- [Introduction to SQL (Pre Work)](Introduction_to_SQL.md)
+- [Practice in the Terminal (Pre Work)](Prep_Practice_in_the_Terminal.md)
+- [The Growth Mindset (Pre Work)](Prep_The_Growth_Mindset.md)
+- [Data Structures and Algorithms (Pre Work)](Data_Structures_and_Algorithms.md)
+- [Engineering Reading (Pre Work)](Engineering_Readings.md)
 
 ---
 
-## [Data Structures and Algorithms](Data%20Structures%20and%20Algorithms.md) 
+### Code 401 Readings & Learning Journal
+
+- [Read Class 01](./Readings/Class01.md),
+  [Journal Class 01](./Learning_Journal/Class01.md)
+
+- [Read Class 02](./Readings/Class02.md)
 
 ---
