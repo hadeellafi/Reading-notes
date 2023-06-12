@@ -33,3 +33,8 @@
 - Usage
 - Installation
 - License
+
+--- 
+
+## Things I want to know more about
+ 
