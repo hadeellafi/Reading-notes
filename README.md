@@ -22,7 +22,7 @@ This website is a collection of my reading notes from various courses.
 
 ---
 
-### Code 401 Readings & Learning Journal
+### Code 401 Readings
 
 - [Read Class 01](./Readings/Class01.md)
 
