@@ -24,9 +24,10 @@ This website is a collection of my reading notes from various courses.
 
 ### Code 401 Readings & Learning Journal
 
-- [Read Class 01](./Readings/Class01.md),
-  [Journal Class 01](./LearningJournal/Class01.md)
+- [Read Class 01](./Readings/Class01.md)
 
 - [Read Class 02](./Readings/Class02.md)
+
+- [Read Class 03](./Readings/Class03.md)
 
 ---
