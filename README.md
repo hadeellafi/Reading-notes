@@ -30,4 +30,6 @@ This website is a collection of my reading notes from various courses.
 
 - [Read Class 03](./Readings/Class03.md)
 
+- [Read Class 04](./Readings/Class04.md)
+
 ---
