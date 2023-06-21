@@ -32,4 +32,6 @@ This website is a collection of my reading notes from various courses.
 
 - [Read Class 04](./Readings/Class04.md)
 
+- [Read Class 05](./Readings/Class05.md)
+
 ---
