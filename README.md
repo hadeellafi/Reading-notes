@@ -36,5 +36,6 @@ This website is a collection of my reading notes from various courses.
 
 - [Read Class 06](./Readings/Class06.md)
 
+- [Read Class 07](./Readings/Class07.md)
 
 ---
