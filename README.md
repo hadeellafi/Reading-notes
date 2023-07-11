@@ -43,7 +43,7 @@ This website is a collection of my reading notes from various courses.
 
 - [Read Class 09](./Readings/Class09.md)
 
-- [Read Class 09](./Readings/Class10.md)
+- [Read Class 10](./Readings/Class10.md)
 
 
 ---
