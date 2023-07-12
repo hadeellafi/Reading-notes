@@ -9,7 +9,7 @@ Do some research on what a Database Schema is.
 - **What is a Schema?**
 schema is the organization or structure of the database.
 - **Why do we use them?**
-we use it to define the entities and relationships among them, and that makes easier to manage and understand the strucre of data .
+we use it to define the entities and relationships among them, and that makes it easier to manage and understand the structure of data.
 - **What do they look like?**
 A database schema can be represented in a visual diagram, which shows the database objects and their relationship with each other.
 
