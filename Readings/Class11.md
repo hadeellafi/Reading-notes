@@ -29,7 +29,7 @@ Different types of Database Keys
 
 ## DBMS
 
-What are Relationships in a relational database?
+Relationships in a relational database
 
 - **What is a 1:1 relationship?** each record in one table is linked with exactly one record in another table.
 
