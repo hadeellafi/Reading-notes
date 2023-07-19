@@ -49,4 +49,6 @@ This website is a collection of my reading notes from various courses.
 
 - [Read Class 12](./Readings/Class12.md)
 
+- [Read Class 13](./Readings/Class13.md)
+
 ---
