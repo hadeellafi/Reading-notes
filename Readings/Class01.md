@@ -6,7 +6,7 @@
 
 Debugging means running your code step by step in a debugging tool like Visual Studio, to find the exact point where is a programming mistake. It is a crucial skill as it helps identify and resolve programming mistakes and errors. By using debugging techniques, we can step through our code, track the execution flow, and pinpoint the exact location of issues. This ability to identify and fix bugs is essential in ensuring the correctness and efficiency of our programs.
 
-#### Some of  the core principles of debugging:
+#### Some of  the core principles of debugging
 
 - Clarify the problem by asking yourself the right questions: Before starting the debugging process, it's important to clearly identify the problem or issue we are trying to solve. This involves asking the right questions and gaining a thorough understanding of the expected behavior and the actual behavior of the code.
 
