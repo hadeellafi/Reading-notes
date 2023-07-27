@@ -20,7 +20,7 @@ In coding, try/catch blocks are used to handle exceptions or errors that may occ
 
 ---
 
-## Things I want to know more about:
+## Things I want to know more about
 
 - How can I effectively use debugging tools like Visual Studio to track and analyze the code execution process?
 - Are there any specific debugging strategies or techniques that can help in resolving complex bugs?

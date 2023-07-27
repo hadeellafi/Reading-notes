@@ -8,7 +8,7 @@ trees are hierarchical structure that is used to represent and organize data in 
 - **Depth of a node**: length of the path from the root to that node.
 - **Height of a node**: length of the longest path from the node to a leaf node of the tree.
 - **Height of the Tree**: the length of the longest path from the root of the tree to a leaf node of the tree.
-- **Degree of a Node**: The total count of subtrees attached to that node is called the degree of the node. 
+- **Degree of a Node**: The total count of subtrees attached to that node is called the degree of the node.
 
 ### Traversals
 
