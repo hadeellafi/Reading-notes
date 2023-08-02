@@ -11,7 +11,3 @@ Swagger UI offers a web-based interface that provides detailed information about
 ## Testing Controllers
 
 As we have learned before, unit tests are used to test blocks of code, and the same principle applies to unit testing controller logic. In unit testing for controllers, only the contents of a single action are tested.
-
-## Deployment
-
-Deployment is the process of releasing and making application available for use in a particular environment.
