@@ -61,4 +61,6 @@ This website is a collection of my reading notes from various courses.
 
 - [Read Class 18](./Readings/Class18.md)
 
+- [Read Class 19](./Readings/Class19.md)
+
 ---
