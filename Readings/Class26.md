@@ -1,6 +1,6 @@
 # Intro to MVC
 
- This topic is matters because it provides a structured approach to designing and developing applications, offering benefits such as maintainability, scalability, modularity, and improved collaboration.
+ This topic matters because it provides a structured approach to designing and developing applications, offering benefits such as maintainability, scalability, modularity, and improved collaboration.
 
 ## Azure Dev Ops
 
