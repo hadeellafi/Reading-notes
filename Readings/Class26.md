@@ -1,5 +1,7 @@
 # Intro to MVC
 
+ This topic is matters because it provides a structured approach to designing and developing applications, offering benefits such as maintainability, scalability, modularity, and improved collaboration.
+
 ## Azure Dev Ops
 
 Azure DevOps supports a collaborative culture among developers, project managers, and contributors, enabling faster product creation and improvement compared to traditional software development methods.
