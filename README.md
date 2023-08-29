@@ -65,4 +65,6 @@ This website is a collection of my reading notes from various courses.
 
 - [Read Class 26](./Readings/Class26.md)
 
+- [Read Class 27](./Readings/Class27.md)
+
 ---
