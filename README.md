@@ -73,4 +73,6 @@ This website is a collection of my reading notes from various courses.
 
 - [Read Class 30](./Readings/Class30.md)
 
+- [Read Class 31](./Readings/Class31.md)
+
 ---
