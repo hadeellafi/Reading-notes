@@ -77,4 +77,8 @@ This website is a collection of my reading notes from various courses.
 
 - [Read Class 32](./Readings/Class32.md)
 
+- [Read Class 33](./Readings/Class33.md)
+
+- [Read Class 34](./Readings/Class34.md)
+
 ---
