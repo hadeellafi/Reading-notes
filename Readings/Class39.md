@@ -1,4 +1,4 @@
-# React2
+# React 2
 
 ## Conditional Rendering
 
