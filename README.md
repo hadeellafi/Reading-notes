@@ -85,4 +85,8 @@ This website is a collection of my reading notes from various courses.
 
 - [Read Class 37](./Readings/Class37.md)
 
+- [Read Class 38](./Readings/Class38.md)
+
+- [Read Class 39](./Readings/Class39.md)
+
 ---
